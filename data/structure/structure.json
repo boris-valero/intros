@@ -282,26 +282,28 @@
                 "element": ""
             },
             {
-                "element": "div.app-navigation > nav.app-navigation-vue > ul.app-navigation__list"
-            },
-            {
-                "element": "div.board-header-controls > div.board-header-control > div > button.action-item__menutoggle",
-                "position": "bottom"
-            },
-            {
-                "element": "div.stack-header > div.stack-header__title"
-            },
-            {
-                "element": "button.icon-add",
-                "position": "bottom"
-            },
-            {
-                "element": "div.card > div.card__details",
+                "element": "div.app-navigation",
                 "position": "right"
             },
             {
-                "element": "div.app-sidebar-tabs > div.app-sidebar-tabs__content",
-                "open": "div.card > div.card__details",
+                "element": "div.board-header-controls",
+                "position": "bottom"
+            },
+            {
+                "element": "div.stack",
+                "position": "top"
+            },
+            {
+                "element": "div.stack > div.stack__header",
+                "position": "bottom"
+            },
+            {
+                "element": "div.card",
+                "position": "right"
+            },
+            {
+                "element": "div.app-sidebar-header",
+                "open": "div.card",
                 "position": "left"
             },
             {
