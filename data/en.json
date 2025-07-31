@@ -369,9 +369,11 @@
         "name": "Deck",
         "steps": [
             {
-                "title": "Welcome!",
+                "title": "Welcome to Deck!",
                 "paragraphs": [
-                    "Welcome to the tutorial of the Deck app, your project management solution in Nextcloud!"
+                    "Welcome to <strong>Deck</strong>, the integrated project management application in Nextcloud!",
+                    "<br>",
+                    "Deck uses the <strong>Kanban method</strong> to help you organize your projects and tasks visually and efficiently."
                 ],
                 "choices": [
                     {
@@ -381,40 +383,134 @@
                 ]
             },
             {
+                "title": "Board navigation",
                 "paragraphs": [
-                    "You can find all your boards on the left side of this page. Boards are used to organize your projects and tasks."
+                    "In the left navigation panel, you'll find <strong>all your boards</strong> organized by project.",
+                    "<br>",
+                    "Each board represents a <strong>distinct project</strong> with its own teams, tasks, and workflow."
                 ]
             },
             {
+                "title": "Create a new board",
                 "paragraphs": [
-                    "Use this menu to create a new board, modify board settings or share a board with other users."
+                    "Click the <strong>\"+\"</strong> button to create a new board.",
+                    "<br>",
+                    "You can give it a name, color, and invite collaborators right from creation."
                 ]
             },
             {
+                "title": "Board overview",
                 "paragraphs": [
-                    "Each board contains stacks which represent different stages of your workflow, like 'To do', 'In progress', and 'Done'."
+                    "This is the <strong>main area</strong> where all the columns (stacks) of your current board are displayed.",
+                    "<br>",
+                    "Here you can visualize your project's progress at a glance."
                 ]
             },
             {
+                "title": "Board actions",
                 "paragraphs": [
-                    "You can add new cards (tasks) to a stack by clicking on the plus button at the bottom of each stack."
+                    "This toolbar allows you to:",
+                    "• <strong>Share</strong> the board with other users",
+                    "• <strong>Manage permissions</strong> (read, write, admin)",
+                    "• <strong>Configure</strong> board settings",
+                    "• <strong>Archive</strong> or delete the board"
                 ]
             },
             {
+                "title": "Stacks (columns)",
                 "paragraphs": [
-                    "Cards represent individual tasks in your project. Click on a card to view and edit its details."
+                    "<strong>Stacks</strong> represent the different <strong>stages of your workflow</strong>.",
+                    "<br>",
+                    "Typically: \"To do\", \"In progress\", \"Waiting\", \"Done\"."
                 ]
             },
             {
+                "title": "Stack titles",
                 "paragraphs": [
-                    "In the card sidebar, you can add descriptions, assign users, set due dates, add labels, and attach files to organize your tasks effectively."
+                    "Each stack has a <strong>customizable title</strong> that describes the process stage.",
+                    "<br>",
+                    "You can <strong>click on the title</strong> to modify it and adapt the workflow to your needs."
                 ]
             },
             {
-                "title": "See you!",
+                "title": "Stack content",
                 "paragraphs": [
-                    "This is the end of this app's tutorial.",
-                    "You can follow other apps' tutorials with the following buttons:"
+                    "This area contains all the <strong>cards (tasks)</strong> in the stack.",
+                    "<br>",
+                    "You can <strong>drag and drop</strong> cards from one stack to another to update their status."
+                ]
+            },
+            {
+                "title": "Cards (tasks)",
+                "paragraphs": [
+                    "Each <strong>card represents a task</strong> with:",
+                    "• A <strong>title</strong> and description",
+                    "• <strong>Colored labels</strong> for categorization",
+                    "• <strong>Due dates</strong> and priorities",
+                    "• <strong>Assignments</strong> to team members"
+                ]
+            },
+            {
+                "title": "Add a new card",
+                "paragraphs": [
+                    "Click the <strong>\"+\"</strong> button at the bottom of each stack to <strong>create a new task</strong>.",
+                    "<br>",
+                    "You can immediately enter the title and add necessary details."
+                ]
+            },
+            {
+                "title": "Card sidebar panel",
+                "paragraphs": [
+                    "Clicking on a card opens this <strong>detailed sidebar panel</strong>.",
+                    "<br>",
+                    "It contains all the tools to precisely manage your task."
+                ]
+            },
+            {
+                "title": "Card details",
+                "paragraphs": [
+                    "In this section, you can:",
+                    "• Edit the task's <strong>title</strong> and <strong>description</strong>",
+                    "• Add <strong>comments</strong> for tracking",
+                    "• Attach <strong>files</strong> from Nextcloud",
+                    "• View the <strong>history</strong> of changes"
+                ]
+            },
+            {
+                "title": "User assignment",
+                "paragraphs": [
+                    "Assign the task to <strong>one or more team members</strong>.",
+                    "<br>",
+                    "Assigned people will receive <strong>notifications</strong> and can track progress."
+                ]
+            },
+            {
+                "title": "Due dates and planning",
+                "paragraphs": [
+                    "Set <strong>due dates</strong> for your tasks.",
+                    "<br>",
+                    "Cards with approaching deadlines will be <strong>highlighted</strong> to avoid delays."
+                ]
+            },
+            {
+                "title": "Labels and categories",
+                "paragraphs": [
+                    "Use <strong>colored labels</strong> to:",
+                    "• Categorize your tasks (e.g.: Bug, Feature, Urgent)",
+                    "• Quickly filter cards by type",
+                    "• Visually identify priorities",
+                    "<br>",
+                    "You can create and customize your own labels."
+                ]
+            },
+            {
+                "title": "Master Deck!",
+                "paragraphs": [
+                    "You now have all the keys to use <strong>Deck effectively</strong>!",
+                    "<br>",
+                    "Feel free to experiment with <strong>workflows</strong>, <strong>labels</strong>, and <strong>assignments</strong> to adapt the tool to your working method.",
+                    "<br>",
+                    "Also discover other Nextcloud applications:"
                 ]
             }
         ]

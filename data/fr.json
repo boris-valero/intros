@@ -372,9 +372,11 @@
         "name": "Deck",
         "steps": [
             {
-                "title": "Bienvenue !",
+                "title": "Bienvenue dans Deck !",
                 "paragraphs": [
-                    "Bienvenue dans le tutoriel de l'application Deck, votre solution de gestion de projet dans Nextcloud !"
+                    "Bienvenue dans <strong>Deck</strong>, l'application de gestion de projet intégrée à Nextcloud !",
+                    "<br>",
+                    "Deck utilise la <strong>méthode Kanban</strong> pour vous aider à organiser vos projets et tâches de manière visuelle et efficace."
                 ],
                 "choices": [
                     {
@@ -384,40 +386,134 @@
                 ]
             },
             {
+                "title": "Navigation des tableaux",
                 "paragraphs": [
-                    "Vous pouvez trouver tous vos tableaux sur le côté gauche de cette page. Les tableaux sont utilisés pour organiser vos projets et tâches."
+                    "Dans le panneau de navigation à gauche, vous retrouvez <strong>tous vos tableaux</strong> organisés par projet.",
+                    "<br>",
+                    "Chaque tableau représente un <strong>projet distinct</strong> avec ses propres équipes, tâches et workflow."
                 ]
             },
             {
+                "title": "Créer un nouveau tableau",
                 "paragraphs": [
-                    "Utilisez ce menu pour créer un nouveau tableau, modifier les paramètres du tableau ou partager un tableau avec d'autres utilisateurs."
+                    "Cliquez sur le bouton <strong>« + »</strong> pour créer un nouveau tableau.",
+                    "<br>",
+                    "Vous pourrez lui donner un nom, une couleur et inviter des collaborateurs dès sa création."
                 ]
             },
             {
+                "title": "Vue d'ensemble du tableau",
                 "paragraphs": [
-                    "Chaque tableau contient des piles qui représentent différentes étapes de votre flux de travail, comme 'À faire', 'En cours' et 'Terminé'."
+                    "Voici la <strong>zone principale</strong> où s'affichent toutes les colonnes (piles) de votre tableau actuel.",
+                    "<br>",
+                    "C'est ici que vous visualisez l'avancement de votre projet en un coup d'œil."
                 ]
             },
             {
+                "title": "Actions du tableau",
                 "paragraphs": [
-                    "Vous pouvez ajouter de nouvelles cartes (tâches) à une pile en cliquant sur le bouton plus en bas de chaque pile."
+                    "Cette barre d'outils vous permet de :",
+                    "• <strong>Partager</strong> le tableau avec d'autres utilisateurs",
+                    "• <strong>Gérer les permissions</strong> (lecture, écriture, administration)",
+                    "• <strong>Configurer</strong> les paramètres du tableau",
+                    "• <strong>Archiver</strong> ou supprimer le tableau"
                 ]
             },
             {
+                "title": "Les piles (colonnes)",
                 "paragraphs": [
-                    "Les cartes représentent des tâches individuelles dans votre projet. Cliquez sur une carte pour afficher et modifier ses détails."
+                    "Les <strong>piles</strong> représentent les différentes <strong>étapes de votre workflow</strong>.",
+                    "<br>",
+                    "Typiquement : « À faire », « En cours », « En attente », « Terminé »."
                 ]
             },
             {
+                "title": "Titre des piles",
                 "paragraphs": [
-                    "Dans la barre latérale de la carte, vous pouvez ajouter des descriptions, assigner des utilisateurs, définir des échéances, ajouter des étiquettes et joindre des fichiers pour organiser efficacement vos tâches."
+                    "Chaque pile a un <strong>titre personnalisable</strong> qui décrit l'étape du processus.",
+                    "<br>",
+                    "Vous pouvez <strong>cliquer sur le titre</strong> pour le modifier et adapter le workflow à vos besoins."
                 ]
             },
             {
-                "title": "À bientôt !",
+                "title": "Contenu des piles",
                 "paragraphs": [
-                    "C'est la fin du tutoriel de cette application.",
-                    "Vous pouvez suivre les tutoriels d'autres applications avec les boutons suivants :"
+                    "Cette zone contient toutes les <strong>cartes (tâches)</strong> de la pile.",
+                    "<br>",
+                    "Vous pouvez <strong>glisser-déposer</strong> les cartes d'une pile à l'autre pour mettre à jour leur statut."
+                ]
+            },
+            {
+                "title": "Les cartes (tâches)",
+                "paragraphs": [
+                    "Chaque <strong>carte représente une tâche</strong> avec :",
+                    "• Un <strong>titre</strong> et une description",
+                    "• Des <strong>étiquettes colorées</strong> pour la catégorisation",
+                    "• Des <strong>échéances</strong> et priorités",
+                    "• Des <strong>assignations</strong> aux membres de l'équipe"
+                ]
+            },
+            {
+                "title": "Ajouter une nouvelle carte",
+                "paragraphs": [
+                    "Cliquez sur le bouton <strong>« + »</strong> en bas de chaque pile pour <strong>créer une nouvelle tâche</strong>.",
+                    "<br>",
+                    "Vous pourrez immédiatement saisir le titre et ajouter les détails nécessaires."
+                ]
+            },
+            {
+                "title": "Panneau latéral des cartes",
+                "paragraphs": [
+                    "En cliquant sur une carte, ce <strong>panneau latéral détaillé</strong> s'ouvre.",
+                    "<br>",
+                    "Il contient tous les outils pour gérer précisément votre tâche."
+                ]
+            },
+            {
+                "title": "Détails de la carte",
+                "paragraphs": [
+                    "Dans cette section, vous pouvez :",
+                    "• Modifier le <strong>titre</strong> et la <strong>description</strong> de la tâche",
+                    "• Ajouter des <strong>commentaires</strong> pour le suivi",
+                    "• Joindre des <strong>fichiers</strong> depuis Nextcloud",
+                    "• Voir l'<strong>historique</strong> des modifications"
+                ]
+            },
+            {
+                "title": "Assignation des utilisateurs",
+                "paragraphs": [
+                    "Assignez la tâche à <strong>un ou plusieurs membres</strong> de votre équipe.",
+                    "<br>",
+                    "Les personnes assignées recevront des <strong>notifications</strong> et pourront suivre l'avancement."
+                ]
+            },
+            {
+                "title": "Échéances et planning",
+                "paragraphs": [
+                    "Définissez des <strong>dates d'échéance</strong> pour vos tâches.",
+                    "<br>",
+                    "Les cartes avec échéance proche seront <strong>mises en évidence</strong> pour éviter les retards."
+                ]
+            },
+            {
+                "title": "Étiquettes et catégories",
+                "paragraphs": [
+                    "Utilisez les <strong>étiquettes colorées</strong> pour :",
+                    "• Catégoriser vos tâches (ex: Bug, Fonctionnalité, Urgent)",
+                    "• Filtrer rapidement les cartes par type",
+                    "• Identifier visuellement les priorités",
+                    "<br>",
+                    "Vous pouvez créer et personnaliser vos propres étiquettes."
+                ]
+            },
+            {
+                "title": "Maîtrisez Deck !",
+                "paragraphs": [
+                    "Vous avez maintenant toutes les clés pour utiliser <strong>Deck efficacement</strong> !",
+                    "<br>",
+                    "N'hésitez pas à expérimenter avec les <strong>workflows</strong>, <strong>étiquettes</strong> et <strong>assignations</strong> pour adapter l'outil à votre méthode de travail.",
+                    "<br>",
+                    "Découvrez également les autres applications Nextcloud :"
                 ]
             }
         ]
