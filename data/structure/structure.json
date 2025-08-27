@@ -268,23 +268,34 @@
   },
   "deck": {
     "steps": [
-      { "element": "" },
+      { 
+        "element": "" 
+      },
       {
         "element": "html.ng-csp body#body-user div#content-vue.content.app-deck.sidebar-hidden div.app-navigation nav#app-navigation-vue.app-navigation__content ul.app-navigation-list.app-navigation__list",
+        "open": "",
         "position": "right"
       },
-      { "element": "main#app-content-vue", "position": "bottom" },
+      { "element": "main#app-content-vue", 
+        "position": "bottom" 
+      },
       {
         "element": "div.app-navigation nav#app-navigation-vue.app-navigation__content ul.app-navigation-list.app-navigation__list li.app-navigation-entry-wrapper div.app-navigation-entry__utils button",
         "position": "bottom"
       },
-      { "element": "div.stack:first-of-type", "position": "top" },
+      { "element": "div.stack:first-of-type", 
+        "position": "top" 
+      },
       {
         "element": "div.stack:first-of-type .stack__header h3",
         "position": "bottom"
       },
-      { "element": "div.card:first-of-type", "position": "right" },
-      { "links": ["dashboard", "files", "calendar"] }
+      { "element": "div.card:first-of-type", 
+        "position": "right"
+      },
+      { 
+        "links": ["dashboard", "files", "calendar"]
+      }
     ]
   }
 }
