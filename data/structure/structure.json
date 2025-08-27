@@ -282,11 +282,11 @@
                 "element": ""
             },
             {
-                "element": "html.ng-csp body#body-user div#content-vue.content.app-deck.sidebar-hidden div.app-navigation nav#app-navigation-vue.app-navigation__content ul.app-navigation-list.app-navigation__list",
+                "element": "nav.app-navigation",
                 "position": "right"
             },
             {
-                "element": "",
+                "element": "nav.app-navigation .app-navigation-entry-new button",
                 "position": "right"
             },
             {
@@ -294,7 +294,7 @@
                 "position": "bottom"
             },
             {
-                "element": "div.app-navigation nav#app-navigation-vue.app-navigation__content ul.app-navigation-list.app-navigation__list li.app-navigation-entry-wrapper div.app-navigation-entry__utils button",
+                "element": "div.board-header-controls > div.board-actions",
                 "position": "bottom"
             },
             {
