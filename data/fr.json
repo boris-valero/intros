@@ -394,14 +394,6 @@
                 ]
             },
             {
-                "title": "Créer un nouveau tableau",
-                "paragraphs": [
-                    "Cliquez sur le bouton <strong>« + »</strong> pour créer un nouveau tableau.",
-                    "<br>",
-                    "Vous pourrez lui donner un nom, une couleur et inviter des collaborateurs dès sa création."
-                ]
-            },
-            {
                 "title": "Vue d'ensemble du tableau",
                 "paragraphs": [
                     "Voici la <strong>zone principale</strong> où s'affichent toutes les colonnes (piles) de votre tableau actuel.",
@@ -436,14 +428,6 @@
                 ]
             },
             {
-                "title": "Contenu des piles",
-                "paragraphs": [
-                    "Cette zone contient toutes les <strong>cartes (tâches)</strong> de la pile.",
-                    "<br>",
-                    "Vous pouvez <strong>glisser-déposer</strong> les cartes d'une pile à l'autre pour mettre à jour leur statut."
-                ]
-            },
-            {
                 "title": "Les cartes (tâches)",
                 "paragraphs": [
                     "Chaque <strong>carte représente une tâche</strong> avec :",
@@ -451,59 +435,6 @@
                     "• Des <strong>étiquettes colorées</strong> pour la catégorisation",
                     "• Des <strong>échéances</strong> et priorités",
                     "• Des <strong>assignations</strong> aux membres de l'équipe"
-                ]
-            },
-            {
-                "title": "Ajouter une nouvelle carte",
-                "paragraphs": [
-                    "Cliquez sur le bouton <strong>« + »</strong> en bas de chaque pile pour <strong>créer une nouvelle tâche</strong>.",
-                    "<br>",
-                    "Vous pourrez immédiatement saisir le titre et ajouter les détails nécessaires."
-                ]
-            },
-            {
-                "title": "Panneau latéral des cartes",
-                "paragraphs": [
-                    "En cliquant sur une carte, ce <strong>panneau latéral détaillé</strong> s'ouvre.",
-                    "<br>",
-                    "Il contient tous les outils pour gérer précisément votre tâche."
-                ]
-            },
-            {
-                "title": "Détails de la carte",
-                "paragraphs": [
-                    "Dans cette section, vous pouvez :",
-                    "• Modifier le <strong>titre</strong> et la <strong>description</strong> de la tâche",
-                    "• Ajouter des <strong>commentaires</strong> pour le suivi",
-                    "• Joindre des <strong>fichiers</strong> depuis Nextcloud",
-                    "• Voir l'<strong>historique</strong> des modifications"
-                ]
-            },
-            {
-                "title": "Assignation des utilisateurs",
-                "paragraphs": [
-                    "Assignez la tâche à <strong>un ou plusieurs membres</strong> de votre équipe.",
-                    "<br>",
-                    "Les personnes assignées recevront des <strong>notifications</strong> et pourront suivre l'avancement."
-                ]
-            },
-            {
-                "title": "Échéances et planning",
-                "paragraphs": [
-                    "Définissez des <strong>dates d'échéance</strong> pour vos tâches.",
-                    "<br>",
-                    "Les cartes avec échéance proche seront <strong>mises en évidence</strong> pour éviter les retards."
-                ]
-            },
-            {
-                "title": "Étiquettes et catégories",
-                "paragraphs": [
-                    "Utilisez les <strong>étiquettes colorées</strong> pour :",
-                    "• Catégoriser vos tâches (ex: Bug, Fonctionnalité, Urgent)",
-                    "• Filtrer rapidement les cartes par type",
-                    "• Identifier visuellement les priorités",
-                    "<br>",
-                    "Vous pouvez créer et personnaliser vos propres étiquettes."
                 ]
             },
             {

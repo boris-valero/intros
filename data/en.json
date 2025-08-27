@@ -391,14 +391,6 @@
                 ]
             },
             {
-                "title": "Create a new board",
-                "paragraphs": [
-                    "Click the <strong>\"+\"</strong> button to create a new board.",
-                    "<br>",
-                    "You can give it a name, color, and invite collaborators right from creation."
-                ]
-            },
-            {
                 "title": "Board overview",
                 "paragraphs": [
                     "This is the <strong>main area</strong> where all the columns (stacks) of your current board are displayed.",
@@ -433,14 +425,6 @@
                 ]
             },
             {
-                "title": "Stack content",
-                "paragraphs": [
-                    "This area contains all the <strong>cards (tasks)</strong> in the stack.",
-                    "<br>",
-                    "You can <strong>drag and drop</strong> cards from one stack to another to update their status."
-                ]
-            },
-            {
                 "title": "Cards (tasks)",
                 "paragraphs": [
                     "Each <strong>card represents a task</strong> with:",
@@ -448,59 +432,6 @@
                     "• <strong>Colored labels</strong> for categorization",
                     "• <strong>Due dates</strong> and priorities",
                     "• <strong>Assignments</strong> to team members"
-                ]
-            },
-            {
-                "title": "Add a new card",
-                "paragraphs": [
-                    "Click the <strong>\"+\"</strong> button at the bottom of each stack to <strong>create a new task</strong>.",
-                    "<br>",
-                    "You can immediately enter the title and add necessary details."
-                ]
-            },
-            {
-                "title": "Card sidebar panel",
-                "paragraphs": [
-                    "Clicking on a card opens this <strong>detailed sidebar panel</strong>.",
-                    "<br>",
-                    "It contains all the tools to precisely manage your task."
-                ]
-            },
-            {
-                "title": "Card details",
-                "paragraphs": [
-                    "In this section, you can:",
-                    "• Edit the task's <strong>title</strong> and <strong>description</strong>",
-                    "• Add <strong>comments</strong> for tracking",
-                    "• Attach <strong>files</strong> from Nextcloud",
-                    "• View the <strong>history</strong> of changes"
-                ]
-            },
-            {
-                "title": "User assignment",
-                "paragraphs": [
-                    "Assign the task to <strong>one or more team members</strong>.",
-                    "<br>",
-                    "Assigned people will receive <strong>notifications</strong> and can track progress."
-                ]
-            },
-            {
-                "title": "Due dates and planning",
-                "paragraphs": [
-                    "Set <strong>due dates</strong> for your tasks.",
-                    "<br>",
-                    "Cards with approaching deadlines will be <strong>highlighted</strong> to avoid delays."
-                ]
-            },
-            {
-                "title": "Labels and categories",
-                "paragraphs": [
-                    "Use <strong>colored labels</strong> to:",
-                    "• Categorize your tasks (e.g.: Bug, Feature, Urgent)",
-                    "• Quickly filter cards by type",
-                    "• Visually identify priorities",
-                    "<br>",
-                    "You can create and customize your own labels."
                 ]
             },
             {
