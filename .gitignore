@@ -14,4 +14,4 @@
 
 translationtool.phar
 *.mo
-css/
+/css
