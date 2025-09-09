@@ -2,7 +2,6 @@
 /*.iml
 
 /vendor/
-/vendor
 /vendor-bin/*/vendor/
 
 /.php-cs-fixer.cache
@@ -15,4 +14,3 @@
 
 translationtool.phar
 *.mo
-/css
